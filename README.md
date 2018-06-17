@@ -1,4 +1,11 @@
 # wang2vec
+
+## Windows Compatibility with Mingw64 (tested with mysys2)
+
+Changed/added some functions (and imports) to provide compatibility. See diff log by me (Yasas) for changes.
+
+## Documentation
+
 Extension of the original word2vec (https://code.google.com/p/word2vec/) using different architectures
 
 To build the code, simply run:
