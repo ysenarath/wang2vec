@@ -1,6 +1,6 @@
 # wang2vec
 
-## Windows Compatibility with Mingw64 (tested with mysys2)
+## Windows Compatibility with MinGW64 (tested with mysys2)
 
 Changed/added some functions (and imports) to provide compatibility. See diff log by me (Yasas) for changes.
 
